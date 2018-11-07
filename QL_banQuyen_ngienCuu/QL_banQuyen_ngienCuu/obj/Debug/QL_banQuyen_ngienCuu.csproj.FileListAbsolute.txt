@@ -1,0 +1,11 @@
+C:\Users\tranChiVi0123\source\repos\QL_banQuyen_ngienCuu\QL_banQuyen_ngienCuu\bin\Debug\QL_banQuyen_ngienCuu.exe.config
+C:\Users\tranChiVi0123\source\repos\QL_banQuyen_ngienCuu\QL_banQuyen_ngienCuu\bin\Debug\QL_banQuyen_ngienCuu.exe
+C:\Users\tranChiVi0123\source\repos\QL_banQuyen_ngienCuu\QL_banQuyen_ngienCuu\bin\Debug\QL_banQuyen_ngienCuu.pdb
+C:\Users\tranChiVi0123\source\repos\QL_banQuyen_ngienCuu\QL_banQuyen_ngienCuu\obj\Debug\QL_banQuyen_ngienCuu.csprojAssemblyReference.cache
+C:\Users\tranChiVi0123\source\repos\QL_banQuyen_ngienCuu\QL_banQuyen_ngienCuu\obj\Debug\QL_banQuyen_ngienCuu.Form1.resources
+C:\Users\tranChiVi0123\source\repos\QL_banQuyen_ngienCuu\QL_banQuyen_ngienCuu\obj\Debug\QL_banQuyen_ngienCuu.Form_ADD.resources
+C:\Users\tranChiVi0123\source\repos\QL_banQuyen_ngienCuu\QL_banQuyen_ngienCuu\obj\Debug\QL_banQuyen_ngienCuu.Properties.Resources.resources
+C:\Users\tranChiVi0123\source\repos\QL_banQuyen_ngienCuu\QL_banQuyen_ngienCuu\obj\Debug\QL_banQuyen_ngienCuu.csproj.GenerateResource.cache
+C:\Users\tranChiVi0123\source\repos\QL_banQuyen_ngienCuu\QL_banQuyen_ngienCuu\obj\Debug\QL_banQuyen_ngienCuu.csproj.CoreCompileInputs.cache
+C:\Users\tranChiVi0123\source\repos\QL_banQuyen_ngienCuu\QL_banQuyen_ngienCuu\obj\Debug\QL_banQuyen_ngienCuu.exe
+C:\Users\tranChiVi0123\source\repos\QL_banQuyen_ngienCuu\QL_banQuyen_ngienCuu\obj\Debug\QL_banQuyen_ngienCuu.pdb
